@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ilkay Polat @ilkay-polat
 - 👀 I’m interested in Clean Code and Spring Framework
-- 🌱 I’m currently learning clean code principles and Spring framework and other Spring technologies. 
+- 🌱 I’m currently learning Clean Code Principles and Spring Framework and other Spring technologies. 
 - 📫 Please reach me over ilkaypolatnl@gmail.com
 
 <!---
